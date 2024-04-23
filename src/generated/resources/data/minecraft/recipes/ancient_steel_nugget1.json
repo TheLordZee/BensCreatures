@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "benscreatures:ancient_steel_ore"
+  },
+  "result": {
+    "item": "benscreatures:ancient_steel_nugget",
+    "count": 4
+  },
+  "experience": 1.0,
+  "cookingtime": 100
+}

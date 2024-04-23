@@ -1,0 +1,8 @@
+{
+  "block.benscreatures.ancient_steel_block": "Ancient Steel Block",
+  "block.benscreatures.ancient_steel_ore": "Ancient Steel Ore",
+  "item.benscreatures.ancient_steel_chunk": "Ancient Steel Chunk",
+  "item.benscreatures.ancient_steel_ingot": "Ancient Steel Ingot",
+  "item.benscreatures.ancient_steel_nugget": "Ancient Steel Nugget",
+  "itemGroup.benscreatures": "Ben's Creatures"
+}

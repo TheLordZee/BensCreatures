@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "benscreatures",
+  "ingredients": [
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    },
+    {
+      "item": "benscreatures:ancient_steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "benscreatures:ancient_steel_block"
+  }
+}

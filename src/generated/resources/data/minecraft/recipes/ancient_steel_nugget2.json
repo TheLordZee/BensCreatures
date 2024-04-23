@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "benscreatures:ancient_steel_chunk"
+  },
+  "result": "benscreatures:ancient_steel_nugget",
+  "experience": 1.0,
+  "cookingtime": 100
+}

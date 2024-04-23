@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "benscreatures",
+  "ingredients": [
+    {
+      "item": "benscreatures:ancient_steel_block"
+    }
+  ],
+  "result": {
+    "item": "benscreatures:ancient_steel_ingot",
+    "count": 9
+  }
+}

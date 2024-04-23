@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "benscreatures:item/ancient_steel_nugget"
+  }
+}
